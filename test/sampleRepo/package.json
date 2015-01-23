@@ -1,0 +1,8 @@
+{
+  "name": "myModule",
+  "description": "grunt-bump test module",
+  "version": "0.0.0",
+  "dependencies": {
+    "semver": "~2.3.0"
+  }
+}
